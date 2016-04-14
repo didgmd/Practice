@@ -1,3 +1,3 @@
-func sayHello(name: String) {
+func sayHello(_ name: String) {
 	print("Hello, \(name)!")
 }
