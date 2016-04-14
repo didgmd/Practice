@@ -1,2 +1,2 @@
 # practice
-Just for pratice
+Just for practice
